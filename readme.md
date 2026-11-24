@@ -1,91 +1,90 @@
 
-# 🎬 CINEVERSE – Movie Information Website
+# 🛍️ SHOPZONE - E-Commerce Website
 
-Welcome to **CINEVERSE**, a modern and responsive movie information website designed for movie lovers.
+Welcome to **SHOPZONE**, a modern and responsive E-Commerce website built using HTML5 and CSS3.
 
-Explore movies from different film industries, including Telugu, Bollywood, Tamil, and Hollywood, all in one place.
+This project was developed as part of an HTML and CSS web development assignment. It provides a clean and attractive online shopping interface with multiple sections to enhance the shopping experience.
 
-## 🌟 Features
+## 🌐 Project Overview
 
-- 🎥 Featured movie banner
-- ❤️ Dedicated Telugu Movies section
-- 🌎 Hollywood movie collection
-- 🇮🇳 Bollywood movie collection
-- ⭐ Movie ratings and release years
-- 📖 Movie story and information
-- 🎭 Movie cast details
-- ▶️ Embedded movie trailers
-- 📱 Responsive design for mobile and desktop
-- 🎨 Modern cinematic dark theme
+SHOPZONE is an online shopping webpage where users can explore different product categories, view featured products, discover special offers, and read customer reviews.
+
+The website is designed with a modern layout, attractive colors, and a responsive interface that works on desktop and mobile devices.
+
+## ✨ Features
+
+- Modern and attractive homepage
+- Responsive navigation bar
+- Hero section with promotional banner
+- Product categories section
+- Featured products with images and prices
+- Discount labels and product ratings
+- Special promotional offers
+- Free shipping and secure payment information
+- Customer reviews section
+- Newsletter subscription section
+- Footer with useful links and contact information
+- Mobile-friendly responsive design
 
 ## 🛠️ Technologies Used
 
-- HTML5 – Website structure
-- CSS3 – Styling and responsive design
-- Google Fonts – Typography
-- YouTube – Movie trailers
-- TMDB Images – Movie posters
+- **HTML5** – Website structure
+- **CSS3** – Styling and responsive layout
+- **Google Fonts** – Typography
+- **Unsplash** – Product and banner images
 
 ## 📂 Project Structure
 
-CINEVERSE/
+```text
+SHOPZONE/
 │
-├── index.html
-├── style.css
+├── shopzone/
+│   ├── index.html
+│   └── style.css
+│
 └── README.md
-
-## 🎞️ Movie Categories
-
-### Telugu Cinema
-- RRR
-- Baahubali 2
-- Pushpa
-- Kalki 2898 AD
-- Salaar
-- Jersey
-
-### Hollywood
-- Interstellar
-- Inception
-- Avengers: Infinity War
-- The Dark Knight
-
-### Bollywood
-- 3 Idiots
-- Dangal
-- Jawan
-- Pathaan
+```
 
 ## 🚀 How to Run the Project
 
-1. Clone or download this repository.
+1. Clone this repository:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/shopzone-ecommerce-website.git
+```
+
 2. Open the project folder.
-3. Locate `index.html`.
-4. Open it in your web browser.
-5. Explore the CINEVERSE website!
 
-## 🎨 Website Theme
+3. Open the `shopzone` folder.
 
-- Background: Dark Cinematic Theme
-- Primary Color: Red
-- Secondary Color: Gold
-- Typography: Poppins
-- Layout: Responsive Grid and Flexbox
+4. Open `index.html` in your browser.
+
+You can also use the Live Server extension in Visual Studio Code.
+
+## 📱 Responsive Design
+
+The website is designed to work across different screen sizes, including:
+
+- Desktop computers
+- Laptops
+- Tablets
+- Mobile phones
 
 ## 🎯 Project Objective
 
-The main objective of this project is to develop a visually attractive and user-friendly movie information website using HTML and CSS while improving frontend web development skills.
+The main objective of this project is to practice HTML and CSS concepts by creating a complete E-Commerce webpage with an attractive user interface and responsive layout.
 
 ## 👨‍💻 Author
 
 **Lakamana Nikhil Kumar**
 
-B.Tech – Computer Science and Engineering (AI & ML)
+B.Tech – 1st Year  
+CSE (AI & ML)
 
-## 📜 License
+## 📄 License
 
-This project is created for educational and learning purposes.
+This project is created for educational purposes.
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+⭐ If you like this project, feel free to star the repository!
